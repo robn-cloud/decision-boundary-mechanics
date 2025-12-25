@@ -1,41 +1,70 @@
-# Decision Boundary Mechanics
+Decision Boundary Mechanics
 
-Working notes on how organisations force decisions at points of irreversible commitment.
+Decision Boundary Mechanics examines what happens to decisions at the point where commitment becomes irreversible.
 
-This repository is a research notebook, not a framework, methodology, or product. It captures general, domain-agnostic patterns around ownership, exposure, and decision settlement that recur across many industries.
+Most organisational failures do not come from poor analysis, lack of intelligence, or absence of process. They arise at the moment when a choice crosses a boundary and creates exposure, cost, or obligation that cannot be easily unwound. At that point, familiar tools lose power. Ownership blurs, time stretches, justification replaces choice, and decisions that were once live become socially frozen.
 
-These notes are not derived from, and are not intended to describe, any specific organisation’s internal processes, systems, or data.
+DBM is concerned with those moments.
 
-## Scope
+It documents recurring mechanical patterns that appear whenever organisations commit to action under uncertainty, scale, or pressure. These patterns recur across industries and domains because they are structural, not cultural.
 
-The focus is on mechanisms rather than implementations, including:
+This repository exists to make those mechanics visible.
 
-- Irreversible commitments and exposure boundaries
-- Ownership versus authority in decision-making
-- Time as a forcing function
-- How ambiguity persists and why it is often structurally useful
-- Common failure modes such as drift, diffusion of responsibility, and retroactive justification
-- Minimal properties a decision must have to exist meaningfully before commitment
+⸻
 
-## Out of scope
+What DBM covers
 
-This repository deliberately does not cover:
+DBM focuses on the minimal properties that must exist for a decision to settle meaningfully once commitment is unavoidable. The emphasis is on mechanisms rather than prescriptions.
 
-- Implementation guidance for any specific organisation
-- Governance models, operating models, or playbooks
-- Security, compliance, or IT process prescriptions
-- Tooling, automation, or product designs
+Key areas include:
+	•	Irreversible commitments and exposure boundaries
+	•	Ownership versus authority at the point of commitment
+	•	Time as a forcing function and a source of decay
+	•	How ambiguity persists and why it is often structurally useful
+	•	Common failure modes such as drift, diffusion of responsibility, delayed escalation, and retrospective justification
+	•	The conditions under which a decision can be said to exist in a real sense, rather than as narrative or intent
 
-## Structure
+The intent is to describe what happens, reliably and repeatedly, when decisions meet reality.
 
-- `notes/` contains evolving analytical notes
-- `examples/` contains cross-domain illustrations
-- `figures/` contains diagrams where useful
+⸻
 
-## Status
+What DBM does not do
 
-Early-stage working notes. Incomplete by design and subject to revision.
+DBM deliberately avoids turning these mechanics into guidance, playbooks, or operating models.
 
-## Licence
+It does not provide:
+	•	Implementation instructions for any specific organisation
+	•	Governance frameworks or operating models
+	•	Security, compliance, or IT process prescriptions
+	•	Tooling, automation, or product designs
+
+Those surfaces vary by context. The mechanics underneath do not.
+
+DBM is intended to sit upstream of those choices, clarifying why certain approaches break down once commitment is real.
+
+⸻
+
+How to use this repository
+
+This repository is structured as a growing body of analytical material rather than a finished manual.
+	•	notes/ contains evolving analyses of specific mechanisms
+	•	examples/ contains cross-domain illustrations showing the same mechanics recurring in different settings
+	•	figures/ contains diagrams where they materially improve clarity
+
+Readers typically arrive here when their existing structures have stopped producing decisions that stick. DBM is designed to be read selectively, at the point where something feels wrong but is hard to name.
+
+⸻
+
+Status
+
+This is an early, foundational body of work.
+
+The material is intentionally minimal and incomplete in surface area, while aiming to be precise in what it does cover. Concepts are added only when they describe a mechanism that recurs reliably under commitment pressure.
+
+Expect revision, tightening, and occasional removal as the mechanics are clarified.
+
+⸻
+
+Licence
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
