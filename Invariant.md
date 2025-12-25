@@ -17,10 +17,10 @@ If any one of these properties fails to cross the commitment boundary, ambiguity
 ⸻
 
 Corollaries
-	•	Compliance, motion, or consensus are not substitutes for a decision.
-	•	Analysis that continues after commitment is usually a symptom of missing ownership, not of prudence.
-	•	Re-litigation is not a behavioural failure but a mechanical consequence of an incomplete boundary crossing.
-	•	Governance mechanisms that operate after commitment cannot repair a boundary that was crossed incorrectly.
+•	Compliance, motion, or consensus are not substitutes for a decision.
+•	Analysis that continues after commitment is usually a symptom of missing ownership, not of prudence.
+•	Re-litigation is not a behavioural failure but a mechanical consequence of an incomplete boundary crossing.
+•	Governance mechanisms that operate after commitment cannot repair a boundary that was crossed incorrectly.
 
 ⸻
 
