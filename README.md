@@ -28,22 +28,6 @@ The intent is to describe what happens, reliably and repeatedly, when decisions 
 
 ⸻
 
-What DBM does not do
-
-DBM deliberately avoids turning these mechanics into guidance, playbooks, or operating models.
-
-It does not provide:
-	•	Implementation instructions for any specific organisation
-	•	Governance frameworks or operating models
-	•	Security, compliance, or IT process prescriptions
-	•	Tooling, automation, or product designs
-
-Those surfaces vary by context. The mechanics underneath do not.
-
-DBM is intended to sit upstream of those choices, clarifying why certain approaches break down once commitment is real.
-
-⸻
-
 How to use this repository
 
 This repository is structured as a growing body of analytical material rather than a finished manual.
