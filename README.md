@@ -1,40 +1,41 @@
-# decision-boundary-mechanics
-Exploratory notes on decision forcing, ownership, and exposure at irreversible organisational 
-
 # Decision Boundary Mechanics
 
 Working notes on how organisations force decisions at points of irreversible commitment.
 
-This repository is a research notebook, not a framework, methodology, or product. It captures general, domain-agnostic patterns around ownership, exposure, and decision settlement that appear in many industries.
+This repository is a research notebook, not a framework, methodology, or product. It captures general, domain-agnostic patterns around ownership, exposure, and decision settlement that recur across many industries.
 
 These notes are not derived from, and are not intended to describe, any specific organisation’s internal processes, systems, or data.
 
-## What this covers
+## Scope
 
-- Irreversible commitments and “exposure boundaries”
-- Ownership vs authority in decision-making
-- Time as a forcing function (decision windows, expiry, defaults)
-- How ambiguity persists (and why it is often useful)
-- Failure modes: drift, diffusion of responsibility, and silent scope change
-- Minimal decision objects and what they must contain to be enforceable
+The focus is on mechanisms rather than implementations, including:
 
-## What this does not cover
+- Irreversible commitments and exposure boundaries
+- Ownership versus authority in decision-making
+- Time as a forcing function
+- How ambiguity persists and why it is often structurally useful
+- Common failure modes such as drift, diffusion of responsibility, and retroactive justification
+- Minimal properties a decision must have to exist meaningfully before commitment
 
-- Implementation guidance for any specific company
-- Operational playbooks, governance designs, or templates
+## Out of scope
+
+This repository deliberately does not cover:
+
+- Implementation guidance for any specific organisation
+- Governance models, operating models, or playbooks
 - Security, compliance, or IT process prescriptions
-- Tooling, automation, or product roadmaps
+- Tooling, automation, or product designs
 
 ## Structure
 
-- `notes/` contains evolving essays and definitions
-- `examples/` contains cross-domain illustrations (not tied to any employer)
+- `notes/` contains evolving analytical notes
+- `examples/` contains cross-domain illustrations
 - `figures/` contains diagrams where useful
 
 ## Status
 
-Early-stage notes. Expect incompleteness and revision over time.
+Early-stage working notes. Incomplete by design and subject to revision.
 
 ## Licence
 
-CC BY 4.0
+Creative Commons Attribution 4.0 International (CC BY 4.0)
